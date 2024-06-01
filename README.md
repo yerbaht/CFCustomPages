@@ -7,3 +7,5 @@ Block_Waf：https://yerbaht.github.io/CFCustomPages/block_waf.html
 ChaptCha：https://yerbaht.github.io/CFCustomPages/chaptcha_waf.html
 
 IP_Waf：https://yerbaht.github.io/CFCustomPages/ip_waf.html
+
+UA_Waf：https://yerbaht.github.io/CFCustomPages/ua_waf.html
